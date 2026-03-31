@@ -1,0 +1,7 @@
+{
+  "name": "Coca-Cola: Real Magic",
+  "description": "Experience the refreshing world of Coca-Cola. Explore our products, campaigns, and sustainability efforts in an immersive, high-converting digital experience.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
